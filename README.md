@@ -7,9 +7,14 @@ User Interface provides an option to create Elastic Search JSON Body for the fie
 - Query with match terms
 - Filters with exact match
 - Multiple & Nested Aggregations
+- Copy the JSON created into clipboard
 
 ## Installation Steps
 Steps to start the local node server on 3000 port.
 - ```npm install```
 - ```npm start```
 - Access URL: ```http://localhost:3000``` in browser
+
+## Examples
+- On initial load of page
+![Initial Load](/docs/screenshots/initial_page.png)
