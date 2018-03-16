@@ -1,10 +1,15 @@
-# react-elastic-builder
+# react-elastic-builder 1.0
 
-A sample project developed to have a user interface, driven by React, to create Elastic Search Body JSON. Currently UI supports
-1. Query with "match" terms
-2. Filters with exact match
-3. Multiple & Nested Aggregations on fields configured in ./data/fields
+This project helps in building Elastic Search JSON Body involving query, filters & aggregations. This provides a User Interface, driven by ReactJS, to create complex JSON using simple UI elements like text fields and dropdowns.
 
+## Features
+User Interface provides an option to create Elastic Search JSON Body for the fields configured in ```./data/fields.js``` using
+- Query with match terms
+- Filters with exact match
+- Multiple & Nested Aggregations
+
+## Installation Steps
 Steps to start the local node server on 3000 port.
-1. npm install
-2. npm start
+- ```npm install```
+- ```npm start```
+- Access URL: ```http://localhost:3000``` in browser
