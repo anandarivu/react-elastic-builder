@@ -29,12 +29,12 @@ Any change in UI components, will directly reflect in the right section where JS
 
 - Click ```Add Filters``` to add multiple filters. Currently this project supports just ```match``` terms.
 
-![Query Term](/docs/screenshots/add_filters.png)
+![Add Filters](/docs/screenshots/add_filters.png)
 
 - Click ```Add Aggregations``` to add aggregations to query. It supports both ```nested``` & ```multiple``` aggregations as shown below.
 
-Nested Aggregations
-![Query Term](/docs/screenshots/nested_aggregations.png)
+- Nested Aggregations
+![Nested Aggregations](/docs/screenshots/nested_aggregations.png)
 
-Multiple Aggregations
-![Query Term](/docs/screenshots/multiple_aggregations.png)
+- Multiple Aggregations
+![Multiple Aggregations](/docs/screenshots/multiple_aggregations.png)
